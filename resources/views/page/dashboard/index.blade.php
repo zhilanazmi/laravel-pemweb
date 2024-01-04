@@ -35,7 +35,7 @@
                     text: 'Laporan'
                 },
                 subtitle: {
-                    text: 'Berikut Menu Terlaris Wikusama Cafe'
+                    text: 'Berikut Menu Terlaris'
                 },
                 xAxis: {
                     categories: [@foreach ($penjualan as $row)

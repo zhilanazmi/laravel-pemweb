@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Lenovo\Documents\Tugas Kuliah\PEMWEB\final-project\resources\views/page/includes/footer.blade.php ENDPATH**/ ?>

@@ -28,8 +28,8 @@
                         <a href="javascript: void(0);" class="has-arrow waves-effect"><i
                                 class="mdi mdi-table-merge-cells"></i><span>User</span></a>
                         <ul class="sub-menu" aria-expanded="false">
-                            <li><a href="{{ route('user.index') }}">All Users</a></li>
-                            <li><a href="{{ route('user.create') }}">Create User</a></li>
+                            <li><a href="{{ route('user.index') }}">Data Users</a></li>
+                            <li><a href="{{ route('user.create') }}">Tambah User</a></li>
                         </ul>
                     </li>
                 @endcan
@@ -38,8 +38,8 @@
                         <a href="javascript: void(0);" class="has-arrow waves-effect"><i
                                 class="mdi mdi-table-merge-cells"></i><span>Meja</span></a>
                         <ul class="sub-menu" aria-expanded="false">
-                            <li><a href="{{ route('meja.index') }}">All Tables</a></li>
-                            <li><a href="{{ route('meja.create') }}">Create Table</a></li>
+                            <li><a href="{{ route('meja.index') }}">Semua Tables</a></li>
+                            <li><a href="{{ route('meja.create') }}">Buat Table</a></li>
                         </ul>
                     </li>
                 @endcan
@@ -48,8 +48,8 @@
                         <a href="javascript: void(0);" class="has-arrow waves-effect"><i
                                 class="mdi mdi-table-merge-cells"></i><span>Menu</span></a>
                         <ul class="sub-menu" aria-expanded="false">
-                            <li><a href="{{ route('menu.index') }}">All Menu's</a></li>
-                            <li><a href="{{ route('menu.create') }}">Create Menu</a></li>
+                            <li><a href="{{ route('menu.index') }}">Semua Menu</a></li>
+                            <li><a href="{{ route('menu.create') }}">Buat Menu</a></li>
                         </ul>
                     </li>
                 @endcan

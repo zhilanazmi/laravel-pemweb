@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quickeat - index</title>
+  <title>KASIR APP - index</title>
   <link rel="icon" href="assets/cssss/assets/img/fav-icon.png">
 	<!-- CSS only -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -51,18 +51,18 @@
 							<svg xmlns="http://www.w3.org/2000/svg" width="163" height="38" viewBox="0 0 163 38">
   <g id="Logo" transform="translate(-260 -51)">
     <g id="Logo-2" data-name="Logo" transform="translate(260 51)">
-      <g id="Elements">
-        <path id="Path_1429" data-name="Path 1429" d="M315.086,140.507H275.222v-.894c0-11.325,8.941-20.538,19.933-20.538s19.931,9.213,19.931,20.538Z" transform="translate(-270.155 -115.396)" fill="#f29f05"/>
-        <path id="Path_1430" data-name="Path 1430" d="M301.13,133.517a1.488,1.488,0,0,1-1.394-.994,11.361,11.361,0,0,0-10.583-7.54,1.528,1.528,0,0,1,0-3.055,14.353,14.353,0,0,1,13.37,9.527,1.541,1.541,0,0,1-.875,1.966A1.444,1.444,0,0,1,301.13,133.517Z" transform="translate(-264.176 -113.935)" fill="#fff"/>
-        <path id="Path_1431" data-name="Path 1431" d="M297.343,146.544a14.043,14.043,0,0,1-13.837-14.211h2.975a10.865,10.865,0,1,0,21.723,0h2.975A14.043,14.043,0,0,1,297.343,146.544Z" transform="translate(-266.247 -108.544)" fill="#363636"/>
-        <path id="Path_1432" data-name="Path 1432" d="M302.183,132.519a7.064,7.064,0,1,1-14.122,0Z" transform="translate(-264.027 -108.446)" fill="#363636"/>
-        <path id="Path_1433" data-name="Path 1433" d="M320.332,134.575H273.3a1.528,1.528,0,0,1,0-3.055h47.033a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-271.815 -108.923)" fill="#f29f05"/>
-        <path id="Path_1434" data-name="Path 1434" d="M289.154,123.4a1.507,1.507,0,0,1-1.487-1.528v-3.678a1.488,1.488,0,1,1,2.975,0v3.678A1.508,1.508,0,0,1,289.154,123.4Z" transform="translate(-264.154 -116.667)" fill="#f29f05"/>
-        <path id="Path_1435" data-name="Path 1435" d="M284.777,138.133H275.3a1.528,1.528,0,0,1,0-3.055h9.474a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-270.84 -107.068)" fill="#363636"/>
-        <path id="Path_1436" data-name="Path 1436" d="M284.8,141.691h-6.5a1.528,1.528,0,0,1,0-3.055h6.5a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-269.379 -105.218)" fill="#363636"/>
-      </g>
+		<g id="Elements">
+			<path id="Path_1429" data-name="Path 1429" d="M315.086,140.507H275.222v-.894c0-11.325,8.941-20.538,19.933-20.538s19.931,9.213,19.931,20.538Z" transform="translate(-270.155 -115.396)" fill="#0088ff"/>
+			<path id="Path_1430" data-name="Path 1430" d="M301.13,133.517a1.488,1.488,0,0,1-1.394-.994,11.361,11.361,0,0,0-10.583-7.54,1.528,1.528,0,0,1,0-3.055,14.353,14.353,0,0,1,13.37,9.527,1.541,1.541,0,0,1-.875,1.966A1.444,1.444,0,0,1,301.13,133.517Z" transform="translate(-264.176 -113.935)" fill="#fff"/>
+			<path id="Path_1431" data-name="Path 1431" d="M297.343,146.544a14.043,14.043,0,0,1-13.837-14.211h2.975a10.865,10.865,0,1,0,21.723,0h2.975A14.043,14.043,0,0,1,297.343,146.544Z" transform="translate(-266.247 -108.544)" fill="#363636"/>
+			<path id="Path_1432" data-name="Path 1432" d="M302.183,132.519a7.064,7.064,0,1,1-14.122,0Z" transform="translate(-264.027 -108.446)" fill="#363636"/>
+			<path id="Path_1433" data-name="Path 1433" d="M320.332,134.575H273.3a1.528,1.528,0,0,1,0-3.055h47.033a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-271.815 -108.923)" fill="#0088ff"/>
+			<path id="Path_1434" data-name="Path 1434" d="M289.154,123.4a1.507,1.507,0,0,1-1.487-1.528v-3.678a1.488,1.488,0,1,1,2.975,0v3.678A1.508,1.508,0,0,1,289.154,123.4Z" transform="translate(-264.154 -116.667)" fill="#0088ff"/>
+			<path id="Path_1435" data-name="Path 1435" d="M284.777,138.133H275.3a1.528,1.528,0,0,1,0-3.055h9.474a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-270.84 -107.068)" fill="#363636"/>
+			<path id="Path_1436" data-name="Path 1436" d="M284.8,141.691h-6.5a1.528,1.528,0,0,1,0-3.055h6.5a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-269.379 -105.218)" fill="#363636"/>
+		</g>
     </g>
-    <text id="Quickeat" transform="translate(320 77)" fill="#363636" font-size="20" font-family="Poppins" font-weight="700"><tspan x="0" y="0">QUICK</tspan><tspan y="0" fill="#f29f05">EAT</tspan></text>
+    <text id="KASIR APP" transform="translate(320 77)" fill="#363636" font-size="20" font-family="Poppins" font-weight="700"><tspan x="0" y="0">KASIR</tspan><tspan y="0" fill="#0088ff">APP</tspan></text>
   </g>
 </svg>
 
@@ -180,17 +180,17 @@
 <g id="Logo" transform="translate(-260 -51)">
 <g id="Logo-2" data-name="Logo" transform="translate(260 51)">
 <g id="Elements">
-<path id="Path_1429" data-name="Path 1429" d="M315.086,140.507H275.222v-.894c0-11.325,8.941-20.538,19.933-20.538s19.931,9.213,19.931,20.538Z" transform="translate(-270.155 -115.396)" fill="#f29f05"/>
+<path id="Path_1429" data-name="Path 1429" d="M315.086,140.507H275.222v-.894c0-11.325,8.941-20.538,19.933-20.538s19.931,9.213,19.931,20.538Z" transform="translate(-270.155 -115.396)" fill="#0088ff"/>
 <path id="Path_1430" data-name="Path 1430" d="M301.13,133.517a1.488,1.488,0,0,1-1.394-.994,11.361,11.361,0,0,0-10.583-7.54,1.528,1.528,0,0,1,0-3.055,14.353,14.353,0,0,1,13.37,9.527,1.541,1.541,0,0,1-.875,1.966A1.444,1.444,0,0,1,301.13,133.517Z" transform="translate(-264.176 -113.935)" fill="#fff"/>
 <path id="Path_1431" data-name="Path 1431" d="M297.343,146.544a14.043,14.043,0,0,1-13.837-14.211h2.975a10.865,10.865,0,1,0,21.723,0h2.975A14.043,14.043,0,0,1,297.343,146.544Z" transform="translate(-266.247 -108.544)" fill="#363636"/>
 <path id="Path_1432" data-name="Path 1432" d="M302.183,132.519a7.064,7.064,0,1,1-14.122,0Z" transform="translate(-264.027 -108.446)" fill="#363636"/>
-<path id="Path_1433" data-name="Path 1433" d="M320.332,134.575H273.3a1.528,1.528,0,0,1,0-3.055h47.033a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-271.815 -108.923)" fill="#f29f05"/>
-<path id="Path_1434" data-name="Path 1434" d="M289.154,123.4a1.507,1.507,0,0,1-1.487-1.528v-3.678a1.488,1.488,0,1,1,2.975,0v3.678A1.508,1.508,0,0,1,289.154,123.4Z" transform="translate(-264.154 -116.667)" fill="#f29f05"/>
+<path id="Path_1433" data-name="Path 1433" d="M320.332,134.575H273.3a1.528,1.528,0,0,1,0-3.055h47.033a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-271.815 -108.923)" fill="#0088ff"/>
+<path id="Path_1434" data-name="Path 1434" d="M289.154,123.4a1.507,1.507,0,0,1-1.487-1.528v-3.678a1.488,1.488,0,1,1,2.975,0v3.678A1.508,1.508,0,0,1,289.154,123.4Z" transform="translate(-264.154 -116.667)" fill="#0088ff"/>
 <path id="Path_1435" data-name="Path 1435" d="M284.777,138.133H275.3a1.528,1.528,0,0,1,0-3.055h9.474a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-270.84 -107.068)" fill="#363636"/>
 <path id="Path_1436" data-name="Path 1436" d="M284.8,141.691h-6.5a1.528,1.528,0,0,1,0-3.055h6.5a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-269.379 -105.218)" fill="#363636"/>
 </g>
 </g>
-<text id="Quickeat" transform="translate(320 77)" fill="#363636" font-size="20" font-family="Poppins" font-weight="700"><tspan x="0" y="0">QUICK</tspan><tspan y="0" fill="#f29f05">EAT</tspan></text>
+<text id="KASIR APP" transform="translate(320 77)" fill="#363636" font-size="20" font-family="Poppins" font-weight="700"><tspan x="0" y="0">KASIR</tspan><tspan y="0" fill="#0088ff">APP</tspan></text>
 </g>
 </svg>
             	</a>
@@ -209,14 +209,14 @@
 		</div>
 	   </div>
   </header>
+
   <!-- hero-section -->
 	<section class="hero-section gap" style="background-image: url(assets/cssss/assets/img/background-1.png);">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6" data-aos="fade-up"  data-aos-delay="200" data-aos-duration="300">
 					<div class="restaurant">
-						<h1>The Best restaurants
-							in your  home</h1>
+						<h1>Web UAS Pemrograman WEB & Pemrograman Basis Data</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
 						<div class="nice-select-one">
 							<select class="nice-select Advice">
@@ -259,66 +259,59 @@
 			</div>
 		</div>
 	</section>
-	<!-- works-section -->
+
+	<!-- POV -->
 	<section class="works-section gap no-top">
 		<div class="container">
 			<div class="hading" data-aos="fade-up"  data-aos-delay="200" data-aos-duration="300">
-				<h2>How it works</h2>
-				<p>Magna sit amet purus gravida quis blandit turpis cursus. Venenatis tellus in<br> metus vulputate eu scelerisque felis.</p>
+				<h2>Point Of View</h2>
+				<p>Ini adalah point of view yang bisa di akses</p>
 			</div>
 			<div class="row ">
 				<div class="col-lg-4 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
 					<div class="work-card">
-						<img alt="img" src="https://via.placeholder.com/300x154">
-						<h4><span>01</span>  Select Restaurant</h4>
-						<p>Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.</p>
+						<img alt="img" src="assets/cssss/assets/img/kasir (1).png">
+						<h4><span>01</span>  Kasir</h4>
+						<p>Mengelola transaksi keuangan dengan presisi dan efisiensi tinggi. Kemampuan untuk bekerja cepat dan akurat dalam situasi yang sibuk. Komunikatif dan berorientasi pada pelayanan pelanggan..</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
 					<div class="work-card">
-						<img alt="img" src="https://via.placeholder.com/300x154">
-						<h4><span>02</span>  Select menu</h4>
-						<p>Eu mi bibendum neque egestas congue quisque. Nulla facilisi morbi tempus iaculis urna id volutpat lacus. Odio ut sem nulla pharetra diam sit amet.</p>
+						<img alt="img" src="passets/cssss/assets/img/manager (1).png">
+						<h4><span>02</span>  Manajer</h4>
+						<p>Bertanggung jawab atas pengelolaan dan pengembangan tim kerja. Mampu membuat keputusan strategis dan mengatasi tantangan manajemen. Pengalaman yang solid dalam merencanakan, mengorganisir, dan mengawasi operasi harian.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="400" data-aos-duration="500">
 					<div class="work-card">
-						<img alt="img" src="https://via.placeholder.com/300x154">
-						<h4><span>03</span>  Wait for delivery</h4>
-						<p>Nunc lobortis mattis aliquam faucibus. Nibh ipsum consequat nisl vel pretium lectus quam id leo. A scelerisque purus semper eget. Tincidunt arcu non.</p>
+						<img alt="img" src="passets/cssss/assets/img/admin.png">
+						<h4><span>03</span>  Admin</h4>
+						<p>Bertanggung jawab atas tugas administratif dan dukungan operasional. Mampu mengelola dokumentasi, jadwal, dan komunikasi internal. Keterampilan multitasking yang baik dan perhatian terhadap detail.</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- best-restaurants -->
+
+	<!-- Pembuat -->
 	<section class="best-restaurants gap" style="background:#fcfcfc">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
 						<div class="city-restaurants">
-							<h2>12 Best Restaurants in Your City</h2>
-							<p>Magna sit amet purus gravida quis blandit turpis cursus. Venenatis tellus in metus vulputate.</p>
+							<h2>Pembuat WEB</h2>
+							<p>Pembuat WEB KASIR APP</p>
 						</div>
 				</div>
 				<div class="col-lg-6" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
 					<div class="logos-card">
 						<img alt="logo" src="https://via.placeholder.com/100x100">
 							<div class="cafa">
-								<h4><a href="restaurant-card.html">Kennington Lane Cafe</a></h4>
-								<div>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-regular fa-star"></i>
-								</div>
+								<h4><a href="restaurant-card.html">Zhillan Azmi</a></h4>
 								<div class="cafa-button">
-										<a href="#">american</a>
-										<a href="#">steakhouse</a>
-										<a class="end" href="#">seafood</a>
+										<a href="#">152022247</a>
 								</div>
-								<p>Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.</p>
+								
 							</div>
 					</div>
 				</div>
@@ -326,20 +319,11 @@
 					<div class="logos-card two">
 						<img alt="logo" src="https://via.placeholder.com/100x100">
 							<div class="cafa">
-								<h4><a href="restaurant-card.html">The Wilmington</a></h4>
-								<div>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-								</div>
+								<h4><a href="restaurant-card.html">Sadira Amalina F</a></h4>
 								<div class="cafa-button">
-										<a href="#">american</a>
-										<a href="#">steakhouse</a>
-										<a class="end" href="#">seafood</a>
+										<a href="#">152022018</a>
 								</div>
-								<p>Vulputate enim nulla aliquet porttitor lacus luctus. Suscipit adipiscing bibendum est ultricies integer. Sed adipiscing diam donec adipiscing tristique.</p>
+								
 							</div>
 					</div>
 				</div>
@@ -347,279 +331,53 @@
 					<div class="logos-card three">
 						<img alt="logo" src="https://via.placeholder.com/100x100">
 							<div class="cafa">
-								<h4><a href="restaurant-card.html">Kings Arms</a></h4>
-								<div>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-regular fa-star-half-stroke"></i>
-								</div>
+								<h4><a href="restaurant-card.html">Zahra Hisyam</a></h4>
 								<div class="cafa-button">
-										<a href="#">healthy</a>
-										<a href="#">steakhouse</a>
-										<a class="end" href="#">vegetarian</a>
+										<a href="#">152022027</a>
 								</div>
-								<p>Tortor at risus viverra adipiscing at in tellus. Cras semper auctor neque vitae tempus. Dui accumsan sit amet nulla facilisi. Sed adipiscing diam donec adipiscing tristique.</p>
+								
 							</div>
 					</div>
 				</div>
 			</div>
-			<div class="button-gap">
-				<a href="restaurants.html" class="button button-2 non">See All<i class="fa-solid fa-arrow-right"></i></a>
-			</div>
 		</div>
 	</section>
-	<!-- your-favorite-food -->
-	<section class="your-favorite-food gap" style="background-image: url(assets/cssss/assets/img/background-1.png);">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-5" data-aos="fade-up"  data-aos-delay="200" data-aos-duration="300">
-					<div class="food-photo-section">
-						<img alt="img" src="https://via.placeholder.com/676x700">
-						<a href="#" class="one"><i class="fa-solid fa-burger"></i>Burgers</a>
-						<a href="#" class="two"><i class="fa-solid fa-cheese"></i>Steaks</a>
-						<a href="#" class="three"><i class="fa-solid fa-pizza-slice"></i>Pizza</a>
-					</div>
-				</div>
-				<div class="col-lg-6 offset-lg-1" data-aos="fade-up" data-aos-delay="300" data-aos-duration="400">
-					<div class="food-content-section">
-						<h2>Food from your favorite restaurants
-								to your table</h2>
-								<p>Pretium lectus quam id leo in vitae turpis massa sed. Lorem donec massa sapien faucibus et molestie. Vitae elementum curabitur vitae nunc.</p>
-								<a href="#" class="button button-2">Order Now</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- counters-section -->
+
+	<!-- Fitur -->
 	<section class="counters-section">
 		<div class="container">
 			<div class="row align-items-center">
 					<div class="col-lg-3 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
 						<div>
-							<h2>Service shows good taste.</h2>
+							<h2>Fitur Unggulan</h2>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
 						<div class="count-time">
-								<h2 class="timer count-title count-number" data-to="976" data-speed="2000">976</h2>
-									<p>Satisfied<br>
-									Customer</p>
+							<h2 style="font-size: 20px;">KASIR</h2>
+									<p>Menambahkan 
+										transaksi</p>
 						</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="400" data-aos-duration="500">
-						<div class="count-time">
-								<h2 class="timer count-title count-number" data-to="12" data-speed="2000">12</h2>
-									<p>Best<br>
-											Restaurants</p>
+					<div class="count-time">
+						<h2 style="font-size: 20px;">Manajer</h2>
+									<p>Mengakses 
+										Laporan</p>
 						</div>
 				</div>
-				<div class="col-lg-3 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="500" data-aos-duration="600">
-						<div class="count-time sp">
-								<h2 class="timer count-title count-number" data-to="1" data-speed="2000">1</h2>
-								<span>k+</span>
-									<p>Food<br>
-											Delivered</p>
-						</div>
+				<div class="col-lg-3 col-md-6 col-sm-12" data-aos="flip-up" data-aos-delay="400" data-aos-duration="500">
+					<div class="count-time">
+						<h2 style="font-size: 20px;">ADMIN</h2>
+						<p>Mengakses 
+							Semuanya</p>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- reviews-sections -->
-	<section class="reviews-sections gap">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-xl-6 col-lg-12" data-aos="fade-up"  data-aos-delay="200" data-aos-duration="300">
-					<div class="reviews-content">
-						<h2>What customers say about us</h2>
-						<div class="custome owl-carousel owl-theme">
-							<div class="item">
-								<h4>"Dapibus ultrices in iaculis nunc sed augue lacus viverra vitae. Mauris a diam maecenas sed enim. Egestas diam in arcu cursus euismod quis. Quam quisque id diam vel".</h4>
-								<div class="thomas">
-									<img alt="girl" src="https://via.placeholder.com/70x70">
 
-									<div>
-										<h6>Thomas Adamson</h6>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-									</div>
-								</div>
-						</div>
-						<div class="item">
-								<h4>"Dapibus ultrices in iaculis nunc sed augue lacus viverra vitae. Mauris a diam maecenas sed enim. Egestas diam in arcu cursus euismod quis. Quam quisque id diam vel".</h4>
-								<div class="thomas">
-									<img alt="girl" src="https://via.placeholder.com/70x70">
-
-									<div>
-										<h6>Thomas Adamson</h6>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-									</div>
-								</div>
-						</div>
-						<div class="item">
-								<h4>"Dapibus ultrices in iaculis nunc sed augue lacus viverra vitae. Mauris a diam maecenas sed enim. Egestas diam in arcu cursus euismod quis. Quam quisque id diam vel".</h4>
-								<div class="thomas">
-									<img alt="girl" src="https://via.placeholder.com/70x70">
-
-									<div>
-										<h6>Thomas Adamson</h6>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-										<i class="fa-solid fa-star"></i>
-									</div>
-								</div>
-						</div>
-					</div>
-					</div>
-				</div>
-				<div class="col-xl-6 col-lg-12" data-aos="fade-up"  data-aos-delay="300" data-aos-duration="400">
-					<div class="reviews-img">
-						<img alt="photo" src="https://via.placeholder.com/676x585">
-						<i class="fa-regular fa-thumbs-up"></i>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- join-partnership -->
-	<section class="join-partnership gap" style="background-color: #363636;">
-		<div class="container">
-			<h2>Want to Join Partnership?</h2>
-			<div class="row">
-				<div class="col-lg-6" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
-					<div class="join-img">
-						<img alt="img" src="https://via.placeholder.com/626x393">
-						<div class="Join-courier">
-							<h3>Join Courier</h3>
-							<a href="become-partner.html" class="button button-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
-					<div class="join-img">
-						<img alt="img" src="https://via.placeholder.com/626x393">
-						<div class="Join-courier">
-							<h3>Join Merchant</h3>
-							<a href="become-partner.html" class="button button-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- news-section -->
-	<section class="news-section gap">
-		<div class="container">
-			<h2>Latest news and	events</h2>
-			<div class="row">
-				<div class="col-xl-6 col-lg-12" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
-					<div class="news-posts-one">
-						<img alt="man" src="https://via.placeholder.com/626x269">
-						<div class="quickeat">
-							<a href="#">news</a>
-							<a href="#">quickeat</a>
-						</div>
-						<h3>We Have Received An Award For The Quality Of Our Work</h3>
-							<p>Donec adipiscing tristique risus nec feugiat in fermentum. Sapien eget mi proin sed libero. Et magnis dis parturient montes nascetur.
-							Praesent semper feugiat nibh sed pulvinar proin gravida.</p>
-							<a href="#">Read More<i class="fa-solid fa-arrow-right"></i></a>
-							<ul class="data">
-								<li><h6><i class="fa-solid fa-user"></i>by Quickeat</h6></li>
-								<li><h6><i class="fa-regular fa-calendar-days"></i>01.Jan. 2022</h6></li>
-								<li><h6><i class="fa-solid fa-eye"></i>132</h6></li>
-							</ul>
-
-					</div>
-				</div>
-				<div class="col-xl-6 col-lg-12" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
-					<div class="news-post-two">
-						<img alt="food-img" src="https://via.placeholder.com/200x200">
-							<div class="news-post-two-data">
-								<div class="quickeat">
-									<a href="#">restaurants</a>
-									<a href="#">cooking</a>
-								</div>
-								<h6><a href="single-blog.html">With Quickeat you can order food for
-											the whole day</a></h6>
-								<p>Lorem ipsum dolor sit amet, consectetur
-										adipiscing elit, sed do eiusmod tempor...</p>
-								<ul class="data">
-										<li><h6><i class="fa-solid fa-user"></i>by Quickeat</h6></li>
-										<li><h6><i class="fa-regular fa-calendar-days"></i>01.Jan. 2022</h6></li>
-										<li><h6><i class="fa-solid fa-eye"></i>132</h6></li>
-								</ul>
-						</div>
-					</div>
-					<div class="news-post-two">
-						<img alt="food-img" src="https://via.placeholder.com/200x200">
-							<div class="news-post-two-data">
-								<div class="quickeat">
-									<a href="#">restaurants</a>
-									<a href="#">cooking</a>
-								</div>
-								<h6><a href="single-blog.html">127+ Couriers On Our Team!</a></h6>
-								<p>Urna condimentum mattis pellentesque id nibh tortor id aliquet. Tellus at urna condimentum mattis...</p>
-								<ul class="data">
-										<li><h6><i class="fa-solid fa-user"></i>by Quickeat</h6></li>
-										<li><h6><i class="fa-regular fa-calendar-days"></i>01.Jan. 2022</h6></li>
-										<li><h6><i class="fa-solid fa-eye"></i>132</h6></li>
-								</ul>
-						</div>
-					</div>
-					<div class="news-post-two end">
-						<img alt="food-img" src="https://via.placeholder.com/200x200">
-							<div class="news-post-two-data">
-								<div class="quickeat">
-									<a href="#">restaurants</a>
-									<a href="#">cooking</a>
-								</div>
-								<h6><a href="single-blog.html">Why You Should Optimize Your
-																Menu for Delivery</a></h6>
-								<p>Enim lobortis scelerisque fermentum dui. Sit amet cursus sit amet dictum sit amet. Rutrum tellus...</p>
-								<ul class="data">
-										<li><h6><i class="fa-solid fa-user"></i>by Quickeat</h6></li>
-										<li><h6><i class="fa-regular fa-calendar-days"></i>01.Jan. 2022</h6></li>
-										<li><h6><i class="fa-solid fa-eye"></i>132</h6></li>
-								</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- subscribe-section -->
-	<section class="subscribe-section gap" style="background:#fcfcfc">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-6" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
-					<div class="img-subscribe">
-						<img alt="Illustration" src="https://via.placeholder.com/676x403">
-					</div>
-				</div>
-				<div class="col-lg-5 offset-lg-1" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
-					<div class="get-the-menu">
-						<h2>Get the menu of your favorite restaurants every day</h2>
-						<form>
-							<i class="fa-regular fa-bell"></i>
-							<input type="text" name="email" placeholder="Enter email address">
-							<button class="button button-2">Subscribe</button>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	
 	<!-- footer -->
 	<footer class="gap no-bottom" style="background-color: #363636;">
 		<div class="container">
@@ -631,25 +389,22 @@
   <g id="Logo" transform="translate(-260 -51)">
     <g id="Logo-2" data-name="Logo" transform="translate(260 51)">
       <g id="Elements">
-        <path id="Path_1429" data-name="Path 1429" d="M315.086,140.507H275.222v-.894c0-11.325,8.941-20.538,19.933-20.538s19.931,9.213,19.931,20.538Z" transform="translate(-270.155 -115.396)" fill="#f29f05"/>
+        <path id="Path_1429" data-name="Path 1429" d="M315.086,140.507H275.222v-.894c0-11.325,8.941-20.538,19.933-20.538s19.931,9.213,19.931,20.538Z" transform="translate(-270.155 -115.396)" fill="#0088ff"/>
         <path id="Path_1430" data-name="Path 1430" d="M301.13,133.517a1.488,1.488,0,0,1-1.394-.994,11.361,11.361,0,0,0-10.583-7.54,1.528,1.528,0,0,1,0-3.055,14.353,14.353,0,0,1,13.37,9.527,1.541,1.541,0,0,1-.875,1.966A1.444,1.444,0,0,1,301.13,133.517Z" transform="translate(-264.176 -113.935)" fill="#fff"/>
         <path id="Path_1431" data-name="Path 1431" d="M297.343,146.544a14.043,14.043,0,0,1-13.837-14.211h2.975a10.865,10.865,0,1,0,21.723,0h2.975A14.043,14.043,0,0,1,297.343,146.544Z" transform="translate(-266.247 -108.544)" fill="#fff"/>
         <path id="Path_1432" data-name="Path 1432" d="M302.183,132.519a7.064,7.064,0,1,1-14.122,0Z" transform="translate(-264.027 -108.446)" fill="#fff"/>
-        <path id="Path_1433" data-name="Path 1433" d="M320.332,134.575H273.3a1.528,1.528,0,0,1,0-3.055h47.033a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-271.815 -108.923)" fill="#f29f05"/>
-        <path id="Path_1434" data-name="Path 1434" d="M289.154,123.4a1.507,1.507,0,0,1-1.487-1.528v-3.678a1.488,1.488,0,1,1,2.975,0v3.678A1.508,1.508,0,0,1,289.154,123.4Z" transform="translate(-264.154 -116.667)" fill="#f29f05"/>
+        <path id="Path_1433" data-name="Path 1433" d="M320.332,134.575H273.3a1.528,1.528,0,0,1,0-3.055h47.033a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-271.815 -108.923)" fill="#0088ff"/>
+        <path id="Path_1434" data-name="Path 1434" d="M289.154,123.4a1.507,1.507,0,0,1-1.487-1.528v-3.678a1.488,1.488,0,1,1,2.975,0v3.678A1.508,1.508,0,0,1,289.154,123.4Z" transform="translate(-264.154 -116.667)" fill="#0088ff"/>
         <path id="Path_1435" data-name="Path 1435" d="M284.777,138.133H275.3a1.528,1.528,0,0,1,0-3.055h9.474a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-270.84 -107.068)" fill="#fff"/>
         <path id="Path_1436" data-name="Path 1436" d="M284.8,141.691h-6.5a1.528,1.528,0,0,1,0-3.055h6.5a1.528,1.528,0,0,1,0,3.055Z" transform="translate(-269.379 -105.218)" fill="#fff"/>
       </g>
     </g>
-    <text id="Quickeat" transform="translate(320 77)" fill="#fff" font-size="20" font-family="Poppins" font-weight="700"><tspan x="0" y="0">QUICK</tspan><tspan y="0" fill="#f29f05">EAT</tspan></text>
+    <text id="KASIR APP" transform="translate(320 77)" fill="#fff" font-size="20" font-family="Poppins" font-weight="700"><tspan x="0" y="0">KASIR</tspan><tspan y="0" fill="#0088ff">APP</tspan></text>
   </g>
 </svg>
 						</a>
-						<h2>The Best Restaurants
-								in Your  Home</h2>
-						<p>Vitae congue mauris rhoncus aenean. Enim nulla
-							 aliquet porttitor lacus luctus accumsan
-								tortor posuere. Tempus egestas sed sed risus pretium quam.</p>
+						<h2>The Best Kasir APP In Thie Hometown</h2>
+						<p>Kasir APP berfungsi untuk mementau penjualan produk berdasarkan point of view admin, manajer dan kasir</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-12">
@@ -668,11 +423,10 @@
 						<h4>Contacts</h4>
 						<div class="footer-location">
 							<i class="fa-solid fa-location-dot"></i>
-							<p>1717 Harrison St, San Francisco, CA 94103,
-									United States</p>
+							<p>Jl. PH. H. Mustofa No. 23 – Bandung, 40124 Indonesia</p>
 						</div>
-						<a href="mailto:quickeat@mail.net"><i class="fa-solid fa-envelope"></i>quickeat@mail.net</a>
-						<a href="callto:+14253261627"><i class="fa-solid fa-phone"></i>+1 425 326 16 27</a>
+						<a href="mailto:KASIR APP@mail.net"><i class="fa-solid fa-envelope"></i>KASIR APP@mail.net</a>
+						<a href="callto:+14253261627"><i class="fa-solid fa-phone"></i>+62 22 7202892</a>
 					</div>
 					<ul class="social-media">
 							<li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -682,7 +436,7 @@
 				</div>
 			</div>
 			<div class="footer-two gap no-bottom">
-				<p>Copyright © 2022. Quickeat. All rights reserved.</p>
+				<p>Copyright © 2022. KASIR APP. All rights reserved.</p>
 				<div class="privacy">
 					<a href="#">Privacy Policy</a>
 					<a href="#">Terms & Services</a>

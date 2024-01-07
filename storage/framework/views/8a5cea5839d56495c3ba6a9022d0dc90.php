@@ -1,0 +1,1 @@
+<?php /**PATH C:\laravel\laravel-pemweb\resources\views/page/includes/footer.blade.php ENDPATH**/ ?>

@@ -217,43 +217,16 @@
 				<div class="col-lg-6" data-aos="fade-up"  data-aos-delay="200" data-aos-duration="300">
 					<div class="restaurant">
 						<h1>Web UAS Pemrograman WEB & Pemrograman Basis Data</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-						<div class="nice-select-one">
-							<select class="nice-select Advice">
-							  <option>Choose a Restaurant</option>
-							  <option>Choose a Restaurant 1</option>
-							  <option>Choose a Restaurant 2</option>
-							  <option>Choose a Restaurant 3</option>
-							  <option>Choose a Restaurant 4</option>
-						</select>
-						<a href="#" class="button button-2">Order Now</a>
-						</div>
+						<p>Kasir APP adalah platform online untuk mengelola transaksi penjualan dengan lebih efisien.
+							Dengan fitur-fitur yang user-friendly, website Kasir APP memungkinkan pengguna untuk mencatat penjualan, 
+							mengelola barang, serta menghasilkan laporan keuangan dengan mudah.</p>
+					
 					</div>
 				</div>
 				<div class="col-lg-6" data-aos="fade-up"  data-aos-delay="300" data-aos-duration="400">
 					<div class="img-restaurant">
-						<img alt="man" src="https://via.placeholder.com/680x720">
-						<div class="wilmington">
-							<img alt="img" src="https://via.placeholder.com/90x90">
-							<div>
-								<p>Restaurant of the Month</p>
-								<h6>The Wilmington</h6>
-								<div>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-solid fa-star"></i>
-									<i class="fa-regular fa-star-half-stroke"></i>
-								</div>
-							</div>
-						</div>
-						<div class="wilmington location-restaurant">
-							<i class="fa-solid fa-location-dot"></i>
-							<div>
-								<h6>12 Restaurant</h6>
-								<p>In Your city</p>
-							</div>
-						</div>
+						<img alt="man" src="assets/cssss/assets/img/kasir home.png">
+					
 					</div>
 				</div>
 			</div>
@@ -270,21 +243,21 @@
 			<div class="row ">
 				<div class="col-lg-4 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="200" data-aos-duration="300">
 					<div class="work-card">
-						<img alt="img" src="assets/cssss/assets/img/kasir (1).png">
+						<img alt="img" src="assets/cssss/assets/img/cashier(4).png">
 						<h4><span>01</span>  Kasir</h4>
 						<p>Mengelola transaksi keuangan dengan presisi dan efisiensi tinggi. Kemampuan untuk bekerja cepat dan akurat dalam situasi yang sibuk. Komunikatif dan berorientasi pada pelayanan pelanggan..</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="300" data-aos-duration="400">
 					<div class="work-card">
-						<img alt="img" src="passets/cssss/assets/img/manager (1).png">
+						<img alt="img" src="assets/cssss/assets/img/manager (2).png">
 						<h4><span>02</span>  Manajer</h4>
 						<p>Bertanggung jawab atas pengelolaan dan pengembangan tim kerja. Mampu membuat keputusan strategis dan mengatasi tantangan manajemen. Pengalaman yang solid dalam merencanakan, mengorganisir, dan mengawasi operasi harian.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12" data-aos="flip-up"  data-aos-delay="400" data-aos-duration="500">
 					<div class="work-card">
-						<img alt="img" src="passets/cssss/assets/img/admin.png">
+						<img alt="img" src="assets/cssss/assets/img/admin (3).png">
 						<h4><span>03</span>  Admin</h4>
 						<p>Bertanggung jawab atas tugas administratif dan dukungan operasional. Mampu mengelola dokumentasi, jadwal, dan komunikasi internal. Keterampilan multitasking yang baik dan perhatian terhadap detail.</p>
 					</div>
@@ -408,15 +381,7 @@
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6 col-sm-12">
-					<div class="menu">
-						<h4>Menu</h4>
-						<ul class="footer-menu">
-							<li><a href="index.html">home<i class="fa-solid fa-arrow-right"></i></a></li>
-							<li><a href="about.html">about us<i class="fa-solid fa-arrow-right"></i></a></li>
-							<li><a href="restaurants.html">Restaurants<i class="fa-solid fa-arrow-right"></i></a></li>
-							<li><a href="contacts.html">Contacts<i class="fa-solid fa-arrow-right"></i></a></li>
-						</ul>
-					</div>
+
 				</div>
 				<div class="col-lg-4 col-md-6 col-sm-12">
 					<div class="menu contacts">

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="<?php echo e(str_replace('_', '-', app()->getLocale())); ?>">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,8 +93,8 @@
 					<div class="extras bag">
            <a href="javascript:void(0)" id="desktop-menu" class="menu-btn">
 
-							{{-- <i class="fa-solid fa-bag-shopping"></i></a> --}}
-                         <a href="{{ route('login') }}" class="button button-2">Login</a>
+							
+                         <a href="<?php echo e(route('login')); ?>" class="button button-2">Login</a>
 					</div>
 				</div>
 			 <div class="menu-wrap">
@@ -311,7 +311,7 @@
 								<div class="cafa-button">
 										<a href="#">152022247</a>
 								</div>
-								{{-- <p>Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.</p> --}}
+								
 							</div>
 					</div>
 				</div>
@@ -323,7 +323,7 @@
 								<div class="cafa-button">
 										<a href="#">152022018</a>
 								</div>
-								{{-- <p>Vulputate enim nulla aliquet porttitor lacus luctus. Suscipit adipiscing bibendum est ultricies integer. Sed adipiscing diam donec adipiscing tristique.</p> --}}
+								
 							</div>
 					</div>
 				</div>
@@ -335,7 +335,7 @@
 								<div class="cafa-button">
 										<a href="#">152022027</a>
 								</div>
-								{{-- <p>Tortor at risus viverra adipiscing at in tellus. Cras semper auctor neque vitae tempus. Dui accumsan sit amet nulla facilisi. Sed adipiscing diam donec adipiscing tristique.</p> --}}
+								
 							</div>
 					</div>
 				</div>
@@ -456,3 +456,4 @@
 	<!-- custom -->
 	<script src="assets/cssss/assets/js/custom.js"></script>
 </body>
+<?php /**PATH C:\Users\lenovo\laravel-pemweb\resources\views/welcome.blade.php ENDPATH**/ ?>
